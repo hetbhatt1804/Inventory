@@ -1,0 +1,502 @@
+Date,Title,Sold Quantity,Total Revenue
+2024-10-22,Adventures of Huckleberry Finn,9,89.64
+2025-03-13,The Shining,2,37.06
+2024-12-16,Adventures of Huckleberry Finn,8,79.68
+2025-03-22,The Shining,8,148.24
+2025-01-08,Pride and Prejudice,10,92.0
+2023-11-15,1984,5,55.7
+2024-07-09,The Old Man and the Sea,4,66.88
+2024-07-21,Harry Potter and the Sorcerer's Stone,9,150.93
+2025-06-16,Adventures of Huckleberry Finn,8,79.68
+2024-12-04,Adventures of Huckleberry Finn,6,59.76
+2024-10-08,Murder on the Orient Express,10,69.3
+2024-12-21,Murder on the Orient Express,7,48.51
+2024-09-18,1984,10,111.4
+2025-03-29,War and Peace,4,44.12
+2023-08-17,The Old Man and the Sea,5,83.6
+2023-12-14,1984,9,100.26
+2024-04-23,1984,1,11.14
+2025-07-13,Harry Potter and the Sorcerer's Stone,10,167.7
+2024-09-13,Murder on the Orient Express,3,20.79
+2024-10-08,War and Peace,2,22.06
+2025-04-10,Harry Potter and the Sorcerer's Stone,10,167.7
+2024-02-17,Murder on the Orient Express,3,20.79
+2023-12-08,Harry Potter and the Sorcerer's Stone,10,167.7
+2025-05-30,The Old Man and the Sea,5,83.6
+2024-01-07,Harry Potter and the Sorcerer's Stone,3,50.31
+2025-02-10,The Shining,1,18.53
+2024-02-19,1984,1,11.14
+2024-12-31,The Alchemist,2,26.38
+2023-08-21,Harry Potter and the Sorcerer's Stone,1,16.77
+2025-05-16,Kafka on the Shore,10,88.8
+2024-05-06,Kafka on the Shore,4,35.52
+2025-06-24,Harry Potter and the Sorcerer's Stone,2,33.54
+2024-01-18,The Old Man and the Sea,3,50.16
+2024-03-25,Kafka on the Shore,4,35.52
+2025-04-30,Harry Potter and the Sorcerer's Stone,4,67.08
+2024-04-23,Adventures of Huckleberry Finn,7,69.72
+2024-12-01,The Shining,8,148.24
+2025-01-19,Pride and Prejudice,5,46.0
+2025-03-08,The Alchemist,2,26.38
+2023-12-30,Pride and Prejudice,6,55.2
+2024-09-16,Pride and Prejudice,2,18.4
+2024-03-15,Murder on the Orient Express,8,55.44
+2024-09-09,Harry Potter and the Sorcerer's Stone,8,134.16
+2023-08-29,Harry Potter and the Sorcerer's Stone,7,117.39
+2023-12-05,The Old Man and the Sea,4,66.88
+2024-04-08,Pride and Prejudice,1,9.2
+2024-10-01,War and Peace,7,77.21
+2024-09-19,Harry Potter and the Sorcerer's Stone,7,117.39
+2024-05-30,Adventures of Huckleberry Finn,10,99.6
+2024-12-24,The Alchemist,3,39.57
+2024-10-13,Murder on the Orient Express,1,6.93
+2025-07-13,War and Peace,10,110.3
+2024-09-16,1984,1,11.14
+2024-12-29,1984,4,44.56
+2024-11-17,Kafka on the Shore,7,62.16
+2024-06-28,Murder on the Orient Express,1,6.93
+2024-07-20,Pride and Prejudice,4,36.8
+2023-11-18,1984,1,11.14
+2024-02-14,1984,9,100.26
+2024-02-24,The Shining,5,92.65
+2025-05-10,The Shining,6,111.18
+2024-01-04,Adventures of Huckleberry Finn,6,59.76
+2025-04-03,The Alchemist,10,131.9
+2024-06-28,The Shining,1,18.53
+2024-03-01,The Shining,4,74.12
+2023-12-10,The Alchemist,4,52.76
+2023-08-11,The Shining,8,148.24
+2024-04-26,War and Peace,8,88.24
+2024-03-31,1984,9,100.26
+2024-10-14,Adventures of Huckleberry Finn,4,39.84
+2025-03-13,Murder on the Orient Express,5,34.65
+2024-07-29,The Old Man and the Sea,10,167.2
+2024-05-27,War and Peace,6,66.18
+2023-07-29,1984,5,55.7
+2023-11-08,Harry Potter and the Sorcerer's Stone,10,167.7
+2023-09-29,War and Peace,10,110.3
+2024-09-24,The Old Man and the Sea,2,33.44
+2023-07-26,1984,3,33.42
+2024-04-21,Pride and Prejudice,6,55.2
+2024-10-20,1984,4,44.56
+2024-03-31,Murder on the Orient Express,3,20.79
+2023-11-17,Harry Potter and the Sorcerer's Stone,4,67.08
+2024-10-25,Murder on the Orient Express,8,55.44
+2023-07-25,The Shining,4,74.12
+2025-04-25,Harry Potter and the Sorcerer's Stone,4,67.08
+2025-06-30,The Alchemist,8,105.52
+2023-09-05,The Old Man and the Sea,8,133.76
+2024-03-11,The Shining,7,129.71
+2024-05-23,The Shining,9,166.77
+2025-05-19,Murder on the Orient Express,7,48.51
+2024-10-18,Pride and Prejudice,8,73.6
+2023-09-06,War and Peace,4,44.12
+2024-05-18,The Alchemist,2,26.38
+2023-11-27,The Shining,10,185.3
+2024-08-16,Harry Potter and the Sorcerer's Stone,8,134.16
+2025-05-12,The Old Man and the Sea,10,167.2
+2023-11-02,The Alchemist,6,79.14
+2025-02-05,The Shining,1,18.53
+2025-03-06,The Alchemist,6,79.14
+2024-05-16,Harry Potter and the Sorcerer's Stone,2,33.54
+2025-05-30,1984,1,11.14
+2024-03-17,Kafka on the Shore,9,79.92
+2025-04-21,Adventures of Huckleberry Finn,1,9.96
+2025-06-06,Kafka on the Shore,7,62.16
+2023-10-24,Pride and Prejudice,1,9.2
+2024-03-15,Adventures of Huckleberry Finn,2,19.92
+2024-08-30,Harry Potter and the Sorcerer's Stone,6,100.62
+2023-10-08,The Shining,6,111.18
+2024-10-02,Adventures of Huckleberry Finn,3,29.88
+2024-01-26,Murder on the Orient Express,3,20.79
+2025-02-27,Kafka on the Shore,3,26.64
+2023-11-28,The Old Man and the Sea,10,167.2
+2024-08-16,The Alchemist,7,92.33
+2023-11-22,1984,2,22.28
+2024-07-15,The Alchemist,7,92.33
+2024-07-20,Murder on the Orient Express,5,34.65
+2024-12-16,Adventures of Huckleberry Finn,6,59.76
+2025-03-07,War and Peace,10,110.3
+2025-03-18,The Alchemist,2,26.38
+2024-10-06,The Alchemist,1,13.19
+2023-08-11,The Alchemist,4,52.76
+2024-08-01,The Shining,6,111.18
+2024-05-03,War and Peace,1,11.03
+2024-07-15,Pride and Prejudice,5,46.0
+2025-07-05,The Shining,10,185.3
+2025-01-29,Harry Potter and the Sorcerer's Stone,6,100.62
+2023-11-01,Pride and Prejudice,1,9.2
+2023-08-08,War and Peace,3,33.09
+2025-03-18,The Old Man and the Sea,1,16.72
+2025-06-05,War and Peace,9,99.27
+2024-02-15,The Shining,2,37.06
+2023-07-31,The Old Man and the Sea,3,50.16
+2024-12-11,War and Peace,9,99.27
+2024-10-24,The Old Man and the Sea,6,100.32
+2024-03-17,1984,6,66.84
+2023-10-07,Murder on the Orient Express,9,62.37
+2025-04-24,Adventures of Huckleberry Finn,1,9.96
+2025-07-04,1984,9,100.26
+2024-01-09,Harry Potter and the Sorcerer's Stone,10,167.7
+2024-09-27,1984,6,66.84
+2024-06-16,The Old Man and the Sea,3,50.16
+2023-11-03,War and Peace,4,44.12
+2023-09-24,War and Peace,9,99.27
+2024-04-24,Kafka on the Shore,5,44.4
+2025-05-17,Kafka on the Shore,7,62.16
+2024-12-23,Adventures of Huckleberry Finn,10,99.6
+2024-12-06,The Alchemist,7,92.33
+2024-09-22,War and Peace,1,11.03
+2024-07-05,Murder on the Orient Express,9,62.37
+2024-08-27,The Old Man and the Sea,4,66.88
+2023-12-25,War and Peace,2,22.06
+2025-05-21,War and Peace,5,55.15
+2025-02-04,The Alchemist,6,79.14
+2024-08-07,The Shining,8,148.24
+2023-08-04,Kafka on the Shore,10,88.8
+2025-04-15,1984,4,44.56
+2023-12-28,Murder on the Orient Express,3,20.79
+2024-10-02,The Alchemist,6,79.14
+2024-12-17,Adventures of Huckleberry Finn,4,39.84
+2023-08-25,The Shining,6,111.18
+2024-02-12,Kafka on the Shore,8,71.04
+2024-07-28,Harry Potter and the Sorcerer's Stone,5,83.85
+2023-11-29,The Alchemist,9,118.71
+2024-05-26,Harry Potter and the Sorcerer's Stone,3,50.31
+2024-03-02,Kafka on the Shore,7,62.16
+2025-06-10,Kafka on the Shore,2,17.76
+2025-04-21,The Old Man and the Sea,10,167.2
+2024-09-12,Adventures of Huckleberry Finn,4,39.84
+2025-03-28,Adventures of Huckleberry Finn,10,99.6
+2024-12-11,Adventures of Huckleberry Finn,5,49.8
+2024-03-19,1984,4,44.56
+2024-06-27,The Old Man and the Sea,4,66.88
+2024-12-29,Pride and Prejudice,9,82.8
+2024-05-02,The Shining,7,129.71
+2023-12-22,The Shining,10,185.3
+2024-12-22,The Old Man and the Sea,5,83.6
+2024-02-13,Pride and Prejudice,6,55.2
+2024-12-02,The Old Man and the Sea,5,83.6
+2025-04-25,The Shining,10,185.3
+2025-02-07,Pride and Prejudice,9,82.8
+2024-11-25,1984,4,44.56
+2024-05-09,War and Peace,2,22.06
+2023-08-13,Murder on the Orient Express,7,48.51
+2024-09-29,Adventures of Huckleberry Finn,2,19.92
+2024-09-26,War and Peace,10,110.3
+2025-04-04,1984,1,11.14
+2024-11-28,Adventures of Huckleberry Finn,8,79.68
+2023-09-29,The Old Man and the Sea,8,133.76
+2024-03-22,The Old Man and the Sea,2,33.44
+2025-05-15,1984,5,55.7
+2024-03-14,Harry Potter and the Sorcerer's Stone,3,50.31
+2025-05-31,The Alchemist,8,105.52
+2025-01-03,Adventures of Huckleberry Finn,3,29.88
+2024-07-18,Harry Potter and the Sorcerer's Stone,10,167.7
+2024-03-18,Murder on the Orient Express,2,13.86
+2025-05-10,1984,9,100.26
+2024-03-25,The Old Man and the Sea,3,50.16
+2024-01-21,The Shining,6,111.18
+2024-01-04,1984,1,11.14
+2024-05-06,The Shining,3,55.59
+2025-04-01,1984,9,100.26
+2023-10-15,Murder on the Orient Express,4,27.72
+2024-09-12,War and Peace,10,110.3
+2024-03-15,The Old Man and the Sea,10,167.2
+2023-08-08,Kafka on the Shore,3,26.64
+2025-07-11,Harry Potter and the Sorcerer's Stone,7,117.39
+2024-09-19,1984,6,66.84
+2025-07-18,The Old Man and the Sea,3,50.16
+2024-02-13,War and Peace,1,11.03
+2023-12-29,The Shining,10,185.3
+2025-04-28,The Old Man and the Sea,1,16.72
+2025-07-13,1984,2,22.28
+2024-03-08,Kafka on the Shore,6,53.28
+2025-04-20,The Old Man and the Sea,3,50.16
+2024-12-25,Harry Potter and the Sorcerer's Stone,8,134.16
+2024-07-20,Harry Potter and the Sorcerer's Stone,4,67.08
+2023-11-13,Murder on the Orient Express,5,34.65
+2025-03-25,Murder on the Orient Express,1,6.93
+2025-02-04,Pride and Prejudice,6,55.2
+2025-05-04,War and Peace,7,77.21
+2024-02-11,1984,9,100.26
+2024-01-26,The Alchemist,1,13.19
+2024-01-15,Kafka on the Shore,1,8.88
+2024-09-11,The Old Man and the Sea,8,133.76
+2025-07-18,Kafka on the Shore,2,17.76
+2025-05-29,1984,4,44.56
+2023-08-12,The Alchemist,3,39.57
+2024-11-02,Adventures of Huckleberry Finn,8,79.68
+2023-08-31,Murder on the Orient Express,6,41.58
+2024-08-04,1984,9,100.26
+2024-12-06,Kafka on the Shore,1,8.88
+2024-11-23,Harry Potter and the Sorcerer's Stone,10,167.7
+2024-04-12,Murder on the Orient Express,4,27.72
+2023-08-16,Harry Potter and the Sorcerer's Stone,7,117.39
+2024-04-30,Harry Potter and the Sorcerer's Stone,8,134.16
+2024-03-07,Kafka on the Shore,4,35.52
+2024-04-27,Kafka on the Shore,8,71.04
+2025-04-23,Adventures of Huckleberry Finn,5,49.8
+2024-08-22,Harry Potter and the Sorcerer's Stone,4,67.08
+2023-09-05,Adventures of Huckleberry Finn,3,29.88
+2024-11-13,Kafka on the Shore,5,44.4
+2025-05-22,Harry Potter and the Sorcerer's Stone,5,83.85
+2024-09-26,The Old Man and the Sea,8,133.76
+2023-12-21,The Old Man and the Sea,8,133.76
+2024-08-28,The Old Man and the Sea,6,100.32
+2024-02-16,War and Peace,10,110.3
+2025-05-01,War and Peace,10,110.3
+2024-06-06,War and Peace,4,44.12
+2024-06-10,Pride and Prejudice,2,18.4
+2025-04-18,Murder on the Orient Express,4,27.72
+2024-11-27,The Shining,2,37.06
+2024-02-02,1984,8,89.12
+2025-02-11,Harry Potter and the Sorcerer's Stone,9,150.93
+2024-02-04,Adventures of Huckleberry Finn,8,79.68
+2025-01-20,Adventures of Huckleberry Finn,8,79.68
+2024-05-07,War and Peace,1,11.03
+2024-08-11,Harry Potter and the Sorcerer's Stone,5,83.85
+2025-05-31,The Alchemist,3,39.57
+2025-01-08,1984,8,89.12
+2024-11-23,Harry Potter and the Sorcerer's Stone,8,134.16
+2023-08-14,1984,6,66.84
+2024-05-02,Adventures of Huckleberry Finn,9,89.64
+2024-12-30,Harry Potter and the Sorcerer's Stone,9,150.93
+2023-09-21,Harry Potter and the Sorcerer's Stone,7,117.39
+2025-01-23,Murder on the Orient Express,2,13.86
+2024-05-23,Murder on the Orient Express,1,6.93
+2024-12-05,1984,9,100.26
+2023-10-16,War and Peace,2,22.06
+2024-02-26,Murder on the Orient Express,2,13.86
+2024-11-27,Adventures of Huckleberry Finn,8,79.68
+2024-10-03,Pride and Prejudice,7,64.4
+2023-09-17,Harry Potter and the Sorcerer's Stone,4,67.08
+2023-10-06,Harry Potter and the Sorcerer's Stone,3,50.31
+2024-04-10,The Shining,10,185.3
+2024-05-09,Pride and Prejudice,7,64.4
+2024-02-19,Kafka on the Shore,5,44.4
+2025-04-15,1984,5,55.7
+2024-12-06,The Shining,8,148.24
+2024-11-26,Pride and Prejudice,10,92.0
+2024-05-01,Murder on the Orient Express,8,55.44
+2025-03-09,Kafka on the Shore,9,79.92
+2024-01-22,The Old Man and the Sea,3,50.16
+2024-01-31,Harry Potter and the Sorcerer's Stone,3,50.31
+2025-04-12,War and Peace,10,110.3
+2024-05-03,The Shining,1,18.53
+2025-05-17,1984,3,33.42
+2024-02-02,The Shining,3,55.59
+2025-03-08,Murder on the Orient Express,1,6.93
+2024-12-30,The Old Man and the Sea,3,50.16
+2024-08-02,Murder on the Orient Express,5,34.65
+2023-10-26,Harry Potter and the Sorcerer's Stone,3,50.31
+2024-01-02,Pride and Prejudice,2,18.4
+2025-02-13,Adventures of Huckleberry Finn,6,59.76
+2024-11-29,Kafka on the Shore,3,26.64
+2023-10-02,Harry Potter and the Sorcerer's Stone,9,150.93
+2024-08-09,1984,9,100.26
+2024-03-09,Harry Potter and the Sorcerer's Stone,3,50.31
+2025-01-17,The Old Man and the Sea,10,167.2
+2023-12-13,The Alchemist,7,92.33
+2023-12-28,The Old Man and the Sea,6,100.32
+2024-02-13,The Old Man and the Sea,2,33.44
+2025-05-18,Harry Potter and the Sorcerer's Stone,9,150.93
+2023-09-18,The Shining,6,111.18
+2024-05-30,Kafka on the Shore,8,71.04
+2024-08-12,Harry Potter and the Sorcerer's Stone,7,117.39
+2024-05-04,War and Peace,7,77.21
+2024-01-21,Pride and Prejudice,9,82.8
+2024-09-10,Adventures of Huckleberry Finn,5,49.8
+2024-11-20,Murder on the Orient Express,1,6.93
+2025-03-06,The Alchemist,7,92.33
+2024-09-12,Harry Potter and the Sorcerer's Stone,8,134.16
+2025-06-16,The Shining,10,185.3
+2025-04-27,Pride and Prejudice,7,64.4
+2024-04-05,The Alchemist,2,26.38
+2023-11-14,1984,5,55.7
+2023-11-06,Harry Potter and the Sorcerer's Stone,3,50.31
+2024-09-21,Pride and Prejudice,4,36.8
+2023-11-24,1984,5,55.7
+2024-06-05,Murder on the Orient Express,7,48.51
+2025-04-04,Kafka on the Shore,4,35.52
+2025-01-18,The Old Man and the Sea,8,133.76
+2024-12-14,Murder on the Orient Express,10,69.3
+2024-01-03,Kafka on the Shore,9,79.92
+2025-03-13,Harry Potter and the Sorcerer's Stone,7,117.39
+2024-06-06,Pride and Prejudice,3,27.6
+2024-06-01,Pride and Prejudice,9,82.8
+2024-06-19,War and Peace,8,88.24
+2023-09-16,The Old Man and the Sea,7,117.04
+2025-02-17,The Old Man and the Sea,4,66.88
+2023-09-07,The Alchemist,6,79.14
+2024-04-02,Pride and Prejudice,2,18.4
+2025-04-14,Adventures of Huckleberry Finn,7,69.72
+2024-05-03,Adventures of Huckleberry Finn,7,69.72
+2024-03-17,The Old Man and the Sea,8,133.76
+2023-11-12,The Shining,7,129.71
+2024-12-22,Pride and Prejudice,10,92.0
+2024-03-18,The Alchemist,8,105.52
+2024-04-18,Adventures of Huckleberry Finn,5,49.8
+2024-02-23,War and Peace,1,11.03
+2023-12-15,The Alchemist,2,26.38
+2025-07-18,The Shining,8,148.24
+2024-08-27,Kafka on the Shore,7,62.16
+2025-01-06,The Old Man and the Sea,9,150.48
+2024-04-08,Adventures of Huckleberry Finn,8,79.68
+2024-01-10,The Alchemist,9,118.71
+2024-10-23,Harry Potter and the Sorcerer's Stone,6,100.62
+2023-12-06,Murder on the Orient Express,7,48.51
+2025-05-29,Adventures of Huckleberry Finn,3,29.88
+2024-12-17,The Shining,7,129.71
+2023-08-03,1984,10,111.4
+2024-03-27,War and Peace,1,11.03
+2025-01-03,The Shining,7,129.71
+2024-09-11,Pride and Prejudice,5,46.0
+2024-10-26,Harry Potter and the Sorcerer's Stone,2,33.54
+2023-12-19,Pride and Prejudice,9,82.8
+2024-11-02,Harry Potter and the Sorcerer's Stone,3,50.31
+2023-11-11,1984,4,44.56
+2023-08-27,The Shining,5,92.65
+2024-03-01,Pride and Prejudice,4,36.8
+2025-03-21,War and Peace,4,44.12
+2023-11-14,Kafka on the Shore,6,53.28
+2024-10-02,Kafka on the Shore,2,17.76
+2025-04-15,1984,10,111.4
+2024-03-05,1984,8,89.12
+2024-03-25,The Alchemist,7,92.33
+2024-10-11,Kafka on the Shore,10,88.8
+2024-04-21,Murder on the Orient Express,5,34.65
+2024-03-16,1984,8,89.12
+2023-10-22,Harry Potter and the Sorcerer's Stone,9,150.93
+2024-07-16,1984,3,33.42
+2023-11-19,Kafka on the Shore,6,53.28
+2024-09-12,The Old Man and the Sea,1,16.72
+2024-06-06,Adventures of Huckleberry Finn,7,69.72
+2024-11-10,Adventures of Huckleberry Finn,3,29.88
+2024-08-05,The Shining,1,18.53
+2024-08-24,Harry Potter and the Sorcerer's Stone,7,117.39
+2024-04-21,The Alchemist,9,118.71
+2024-07-10,War and Peace,8,88.24
+2025-03-04,Kafka on the Shore,4,35.52
+2024-03-25,Pride and Prejudice,1,9.2
+2024-11-12,The Shining,9,166.77
+2025-01-04,Murder on the Orient Express,9,62.37
+2025-05-10,War and Peace,1,11.03
+2025-03-07,The Old Man and the Sea,4,66.88
+2024-03-04,Harry Potter and the Sorcerer's Stone,4,67.08
+2025-02-15,Kafka on the Shore,10,88.8
+2023-10-11,War and Peace,7,77.21
+2024-08-19,The Old Man and the Sea,10,167.2
+2023-10-06,War and Peace,3,33.09
+2024-01-27,War and Peace,2,22.06
+2024-10-11,Adventures of Huckleberry Finn,10,99.6
+2023-11-26,Kafka on the Shore,8,71.04
+2023-11-13,Kafka on the Shore,8,71.04
+2025-04-04,The Alchemist,10,131.9
+2024-10-13,Harry Potter and the Sorcerer's Stone,2,33.54
+2024-12-09,The Shining,6,111.18
+2025-04-05,War and Peace,10,110.3
+2023-08-27,Pride and Prejudice,2,18.4
+2024-07-30,The Shining,10,185.3
+2024-04-01,1984,10,111.4
+2025-05-20,The Shining,5,92.65
+2024-11-28,The Old Man and the Sea,3,50.16
+2024-10-30,1984,6,66.84
+2025-04-02,Adventures of Huckleberry Finn,2,19.92
+2025-04-19,Pride and Prejudice,9,82.8
+2025-03-08,The Old Man and the Sea,6,100.32
+2024-10-11,Harry Potter and the Sorcerer's Stone,2,33.54
+2024-10-17,Kafka on the Shore,9,79.92
+2025-04-23,War and Peace,5,55.15
+2024-03-10,The Shining,10,185.3
+2024-05-26,Harry Potter and the Sorcerer's Stone,10,167.7
+2024-02-19,War and Peace,3,33.09
+2024-01-25,The Alchemist,2,26.38
+2024-06-16,The Alchemist,10,131.9
+2024-12-03,The Shining,1,18.53
+2025-06-12,Pride and Prejudice,8,73.6
+2024-07-20,Harry Potter and the Sorcerer's Stone,9,150.93
+2023-12-31,Pride and Prejudice,5,46.0
+2023-08-28,The Shining,7,129.71
+2025-06-10,Pride and Prejudice,9,82.8
+2024-07-04,Adventures of Huckleberry Finn,2,19.92
+2025-07-15,Pride and Prejudice,9,82.8
+2024-02-03,Pride and Prejudice,7,64.4
+2024-01-22,Murder on the Orient Express,5,34.65
+2024-02-14,Pride and Prejudice,2,18.4
+2024-06-09,Murder on the Orient Express,7,48.51
+2025-04-14,War and Peace,7,77.21
+2025-02-28,Adventures of Huckleberry Finn,2,19.92
+2025-02-14,The Old Man and the Sea,2,33.44
+2024-01-07,War and Peace,10,110.3
+2023-10-15,War and Peace,6,66.18
+2025-01-05,Pride and Prejudice,6,55.2
+2024-08-09,The Alchemist,10,131.9
+2024-04-08,War and Peace,1,11.03
+2024-11-13,The Old Man and the Sea,9,150.48
+2025-02-15,1984,3,33.42
+2024-08-31,Harry Potter and the Sorcerer's Stone,10,167.7
+2025-06-04,The Alchemist,8,105.52
+2025-01-29,Adventures of Huckleberry Finn,6,59.76
+2024-11-17,Adventures of Huckleberry Finn,4,39.84
+2023-12-25,Harry Potter and the Sorcerer's Stone,2,33.54
+2025-01-19,Harry Potter and the Sorcerer's Stone,10,167.7
+2024-05-01,Murder on the Orient Express,9,62.37
+2024-02-06,Murder on the Orient Express,10,69.3
+2024-11-23,Murder on the Orient Express,5,34.65
+2023-12-17,Adventures of Huckleberry Finn,10,99.6
+2023-11-06,Adventures of Huckleberry Finn,3,29.88
+2023-11-15,Murder on the Orient Express,5,34.65
+2024-07-10,Kafka on the Shore,6,53.28
+2023-11-22,The Shining,6,111.18
+2023-10-26,War and Peace,6,66.18
+2023-11-30,The Alchemist,9,118.71
+2023-08-25,1984,7,77.98
+2024-04-06,Adventures of Huckleberry Finn,4,39.84
+2024-09-13,Pride and Prejudice,3,27.6
+2023-08-12,1984,1,11.14
+2025-03-01,Harry Potter and the Sorcerer's Stone,1,16.77
+2023-12-11,The Old Man and the Sea,5,83.6
+2025-07-05,Adventures of Huckleberry Finn,2,19.92
+2024-08-01,Pride and Prejudice,4,36.8
+2025-05-01,1984,7,77.98
+2024-08-26,Harry Potter and the Sorcerer's Stone,8,134.16
+2024-01-04,Adventures of Huckleberry Finn,2,19.92
+2025-05-22,War and Peace,2,22.06
+2024-08-02,1984,2,22.28
+2023-11-27,War and Peace,7,77.21
+2025-03-26,Murder on the Orient Express,3,20.79
+2024-02-13,Adventures of Huckleberry Finn,2,19.92
+2024-12-16,Murder on the Orient Express,6,41.58
+2025-01-21,The Old Man and the Sea,8,133.76
+2024-09-24,Pride and Prejudice,4,36.8
+2023-08-17,1984,3,33.42
+2025-07-16,Pride and Prejudice,7,64.4
+2024-12-08,The Alchemist,5,65.95
+2024-02-27,Kafka on the Shore,5,44.4
+2024-09-04,Adventures of Huckleberry Finn,5,49.8
+2025-07-08,The Old Man and the Sea,5,83.6
+2025-01-01,1984,4,44.56
+2024-04-16,The Shining,8,148.24
+2024-04-19,The Alchemist,8,105.52
+2024-12-20,Kafka on the Shore,3,26.64
+2025-06-16,Kafka on the Shore,5,44.4
+2025-03-08,1984,10,111.4
+2024-04-01,The Old Man and the Sea,6,100.32
+2024-05-30,War and Peace,6,66.18
+2023-07-31,Harry Potter and the Sorcerer's Stone,9,150.93
+2025-01-08,Pride and Prejudice,7,64.4
+2025-04-23,Kafka on the Shore,10,88.8
+2023-08-12,Pride and Prejudice,5,46.0
+2025-02-05,Pride and Prejudice,6,55.2
+2025-02-05,Kafka on the Shore,3,26.64
+2024-01-26,Murder on the Orient Express,7,48.51
+2024-10-23,The Alchemist,1,13.19
+2023-09-25,The Old Man and the Sea,3,50.16
+2025-07-16,1984,2,22.28
+2023-10-07,The Shining,8,148.24
+2023-10-23,Murder on the Orient Express,5,34.65
+2025-04-23,Murder on the Orient Express,6,41.58
+2024-01-24,The Alchemist,5,65.95
+2025-04-01,War and Peace,4,44.12
+2025-07-19,harrypoytttter,1,100.0

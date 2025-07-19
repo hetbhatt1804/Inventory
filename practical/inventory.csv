@@ -1,0 +1,502 @@
+Author,Title,Genre,Price,Quantity
+Paulo Coelho,Adventures of Huckleberry Finn,Historical,16.32,37
+Jane Austen,The Shining,Historical,24.78,13
+Mark Twain,1984,Classic,22.34,51
+Haruki Murakami,The Shining,Horror,23.09,44
+Agatha Christie,The Old Man and the Sea,Dystopian,8.54,52
+Ernest Hemingway,War and Peace,Dystopian,21.28,30
+Ernest Hemingway,Harry Potter and the Sorcerer's Stone,Historical,12.91,20
+Mark Twain,The Alchemist,Fiction,19.76,79
+Leo Tolstoy,Kafka on the Shore,Mystery,11.71,15
+Haruki Murakami,Harry Potter and the Sorcerer's Stone,Fantasy,5.98,34
+Leo Tolstoy,Kafka on the Shore,Literary,9.29,62
+Agatha Christie,The Shining,Fiction,5.69,34
+Jane Austen,Murder on the Orient Express,Fiction,7.43,11
+Jane Austen,The Alchemist,Historical,6.46,100
+Mark Twain,War and Peace,Philosophical,8.18,23
+George Orwell,The Alchemist,Dystopian,5.07,67
+Jane Austen,1984,Classic,12.63,57
+Jane Austen,1984,Literary,16.24,35
+Mark Twain,Adventures of Huckleberry Finn,Philosophical,9.05,64
+George Orwell,War and Peace,Dystopian,20.66,68
+Agatha Christie,Murder on the Orient Express,Philosophical,11.38,90
+Stephen King,Harry Potter and the Sorcerer's Stone,Fiction,18.25,80
+Mark Twain,The Old Man and the Sea,Mystery,10.17,76
+Stephen King,Harry Potter and the Sorcerer's Stone,Dystopian,24.09,74
+Ernest Hemingway,Pride and Prejudice,Adventure,6.18,71
+Agatha Christie,Murder on the Orient Express,Mystery,17.36,25
+Leo Tolstoy,Kafka on the Shore,Historical,24.56,63
+Paulo Coelho,1984,Literary,10.1,52
+Haruki Murakami,Adventures of Huckleberry Finn,Adventure,16.09,10
+George Orwell,Harry Potter and the Sorcerer's Stone,Historical,7.11,42
+J.K. Rowling,Adventures of Huckleberry Finn,Fantasy,21.91,50
+Haruki Murakami,The Alchemist,Classic,12.08,12
+Ernest Hemingway,The Alchemist,Dystopian,5.21,43
+Jane Austen,Kafka on the Shore,Fantasy,9.18,59
+J.K. Rowling,1984,Adventure,16.26,12
+Leo Tolstoy,Kafka on the Shore,Philosophical,10.68,38
+Agatha Christie,Pride and Prejudice,Fiction,5.93,67
+Paulo Coelho,Harry Potter and the Sorcerer's Stone,Fiction,5.77,83
+Haruki Murakami,Harry Potter and the Sorcerer's Stone,Adventure,7.4,87
+Stephen King,Kafka on the Shore,Horror,6.48,33
+Paulo Coelho,The Shining,Horror,18.83,86
+Ernest Hemingway,Pride and Prejudice,Fantasy,13.03,54
+J.K. Rowling,The Shining,Horror,12.87,25
+Jane Austen,War and Peace,Literary,15.79,53
+Leo Tolstoy,Murder on the Orient Express,Fiction,15.49,68
+Mark Twain,1984,Dystopian,16.37,82
+Jane Austen,Murder on the Orient Express,Fiction,10.27,32
+Agatha Christie,1984,Mystery,19.65,15
+Haruki Murakami,Pride and Prejudice,Horror,17.2,21
+Paulo Coelho,The Alchemist,Adventure,14.43,99
+J.K. Rowling,Harry Potter and the Sorcerer's Stone,Fantasy,5.57,40
+Ernest Hemingway,The Old Man and the Sea,Mystery,24.23,83
+Mark Twain,Pride and Prejudice,Classic,14.75,39
+George Orwell,War and Peace,Philosophical,24.69,35
+George Orwell,The Old Man and the Sea,Horror,12.26,68
+Haruki Murakami,The Alchemist,Horror,15.78,15
+Paulo Coelho,Murder on the Orient Express,Fantasy,8.9,25
+Stephen King,Kafka on the Shore,Historical,22.54,28
+Stephen King,1984,Philosophical,17.55,14
+Paulo Coelho,The Old Man and the Sea,Horror,10.27,53
+Stephen King,Harry Potter and the Sorcerer's Stone,Philosophical,6.63,49
+Paulo Coelho,The Alchemist,Literary,24.04,27
+Agatha Christie,Murder on the Orient Express,Mystery,6.42,55
+Mark Twain,The Alchemist,Philosophical,20.06,63
+Haruki Murakami,Harry Potter and the Sorcerer's Stone,Classic,23.77,54
+Jane Austen,Adventures of Huckleberry Finn,Historical,5.89,15
+J.K. Rowling,The Shining,Adventure,9.29,62
+J.K. Rowling,The Alchemist,Mystery,18.27,70
+Leo Tolstoy,The Old Man and the Sea,Fiction,10.47,34
+Mark Twain,The Old Man and the Sea,Fantasy,21.74,67
+Jane Austen,Harry Potter and the Sorcerer's Stone,Historical,11.68,92
+Leo Tolstoy,The Alchemist,Historical,19.72,76
+Paulo Coelho,Murder on the Orient Express,Classic,20.21,47
+Paulo Coelho,Harry Potter and the Sorcerer's Stone,Adventure,23.25,33
+J.K. Rowling,Pride and Prejudice,Fantasy,15.15,63
+J.K. Rowling,The Alchemist,Fiction,17.79,9
+Agatha Christie,Murder on the Orient Express,Historical,6.44,82
+George Orwell,The Alchemist,Literary,7.18,29
+George Orwell,1984,Horror,21.58,35
+Leo Tolstoy,Kafka on the Shore,Classic,5.68,17
+Jane Austen,1984,Fantasy,8.75,66
+Mark Twain,Adventures of Huckleberry Finn,Classic,8.91,59
+Jane Austen,1984,Historical,5.83,75
+Leo Tolstoy,Kafka on the Shore,Classic,17.85,39
+Ernest Hemingway,The Old Man and the Sea,Literary,6.36,51
+Ernest Hemingway,1984,Mystery,10.1,11
+Jane Austen,Harry Potter and the Sorcerer's Stone,Classic,12.61,88
+Jane Austen,1984,Mystery,23.95,25
+Haruki Murakami,Pride and Prejudice,Philosophical,15.98,25
+J.K. Rowling,The Old Man and the Sea,Literary,23.84,24
+Leo Tolstoy,1984,Dystopian,12.12,99
+Agatha Christie,Pride and Prejudice,Classic,6.38,92
+Ernest Hemingway,Harry Potter and the Sorcerer's Stone,Adventure,9.43,90
+Paulo Coelho,The Shining,Horror,22.94,51
+Mark Twain,1984,Historical,7.86,68
+Ernest Hemingway,War and Peace,Horror,19.06,32
+Mark Twain,Murder on the Orient Express,Dystopian,17.17,86
+J.K. Rowling,1984,Horror,18.35,17
+Jane Austen,Adventures of Huckleberry Finn,Literary,21.89,8
+Paulo Coelho,The Alchemist,Classic,16.07,30
+George Orwell,The Shining,Historical,9.17,45
+Ernest Hemingway,The Shining,Fiction,14.42,40
+Agatha Christie,The Alchemist,Horror,19.07,75
+Ernest Hemingway,The Old Man and the Sea,Historical,11.65,9
+Agatha Christie,The Alchemist,Historical,24.54,92
+Agatha Christie,Harry Potter and the Sorcerer's Stone,Fantasy,17.39,47
+Ernest Hemingway,The Old Man and the Sea,Adventure,17.05,59
+George Orwell,Murder on the Orient Express,Philosophical,16.34,15
+Paulo Coelho,Kafka on the Shore,Philosophical,12.51,81
+Mark Twain,1984,Historical,6.37,13
+Agatha Christie,Kafka on the Shore,Fiction,6.8,58
+Stephen King,Kafka on the Shore,Philosophical,19.59,71
+Agatha Christie,Harry Potter and the Sorcerer's Stone,Adventure,12.62,49
+Mark Twain,The Alchemist,Philosophical,15.58,45
+Agatha Christie,The Old Man and the Sea,Dystopian,22.72,48
+Mark Twain,Harry Potter and the Sorcerer's Stone,Philosophical,17.58,81
+George Orwell,The Shining,Fantasy,23.65,90
+George Orwell,War and Peace,Adventure,24.63,100
+George Orwell,Pride and Prejudice,Fiction,5.5,66
+Stephen King,Pride and Prejudice,Adventure,13.84,50
+Ernest Hemingway,Kafka on the Shore,Adventure,6.29,45
+Stephen King,War and Peace,Mystery,9.4,88
+Haruki Murakami,Kafka on the Shore,Fantasy,5.95,49
+Haruki Murakami,Murder on the Orient Express,Horror,16.35,29
+Paulo Coelho,Harry Potter and the Sorcerer's Stone,Historical,5.55,32
+Agatha Christie,The Alchemist,Fiction,8.91,65
+Paulo Coelho,Pride and Prejudice,Horror,14.87,80
+Paulo Coelho,The Shining,Fantasy,6.13,91
+Agatha Christie,The Old Man and the Sea,Adventure,15.69,18
+Haruki Murakami,Harry Potter and the Sorcerer's Stone,Classic,21.29,36
+Paulo Coelho,Adventures of Huckleberry Finn,Philosophical,9.78,61
+George Orwell,Pride and Prejudice,Fantasy,18.2,13
+Haruki Murakami,Kafka on the Shore,Dystopian,10.3,10
+George Orwell,1984,Fiction,10.81,64
+Jane Austen,Pride and Prejudice,Fantasy,21.04,15
+Agatha Christie,Harry Potter and the Sorcerer's Stone,Historical,9.2,48
+Haruki Murakami,Murder on the Orient Express,Literary,9.7,60
+Haruki Murakami,Pride and Prejudice,Horror,5.37,19
+Jane Austen,The Shining,Literary,10.85,69
+Stephen King,War and Peace,Fiction,6.13,92
+Stephen King,Pride and Prejudice,Philosophical,23.21,99
+Ernest Hemingway,Pride and Prejudice,Adventure,12.57,83
+George Orwell,Adventures of Huckleberry Finn,Fiction,6.94,53
+Jane Austen,Harry Potter and the Sorcerer's Stone,Literary,5.02,63
+Jane Austen,Harry Potter and the Sorcerer's Stone,Horror,24.85,42
+Paulo Coelho,Harry Potter and the Sorcerer's Stone,Classic,11.53,43
+Jane Austen,1984,Mystery,7.7,6
+Mark Twain,1984,Horror,19.61,96
+Stephen King,Adventures of Huckleberry Finn,Fantasy,13.13,44
+Jane Austen,Murder on the Orient Express,Fantasy,7.47,99
+Stephen King,Kafka on the Shore,Historical,13.7,84
+J.K. Rowling,The Alchemist,Fantasy,11.87,24
+Jane Austen,War and Peace,Philosophical,24.15,79
+Stephen King,Pride and Prejudice,Horror,22.36,57
+George Orwell,Adventures of Huckleberry Finn,Fiction,15.09,74
+Stephen King,1984,Philosophical,20.24,56
+Jane Austen,Murder on the Orient Express,Fiction,6.4,43
+J.K. Rowling,Pride and Prejudice,Classic,19.37,6
+J.K. Rowling,The Shining,Adventure,7.46,10
+Ernest Hemingway,The Alchemist,Horror,13.1,76
+Ernest Hemingway,1984,Fiction,13.29,57
+J.K. Rowling,1984,Classic,20.31,22
+Leo Tolstoy,Murder on the Orient Express,Fantasy,5.8,30
+Jane Austen,The Old Man and the Sea,Adventure,22.79,72
+Jane Austen,Harry Potter and the Sorcerer's Stone,Fantasy,10.29,8
+George Orwell,Kafka on the Shore,Horror,8.27,60
+Paulo Coelho,Murder on the Orient Express,Literary,21.12,99
+Haruki Murakami,Murder on the Orient Express,Literary,9.47,73
+Paulo Coelho,The Old Man and the Sea,Literary,6.56,97
+Jane Austen,Harry Potter and the Sorcerer's Stone,Philosophical,23.3,88
+Haruki Murakami,The Old Man and the Sea,Classic,10.32,100
+Jane Austen,Pride and Prejudice,Fantasy,5.52,85
+J.K. Rowling,1984,Fantasy,22.25,98
+George Orwell,The Alchemist,Adventure,5.48,52
+George Orwell,The Old Man and the Sea,Philosophical,12.16,22
+Stephen King,1984,Philosophical,8.35,82
+Haruki Murakami,Harry Potter and the Sorcerer's Stone,Fiction,16.69,21
+Ernest Hemingway,The Old Man and the Sea,Philosophical,14.42,48
+Agatha Christie,1984,Dystopian,22.08,61
+Stephen King,1984,Fantasy,21.27,72
+Agatha Christie,Adventures of Huckleberry Finn,Horror,9.75,60
+Leo Tolstoy,War and Peace,Mystery,10.47,74
+Jane Austen,The Alchemist,Mystery,22.17,59
+Jane Austen,The Shining,Mystery,17.85,79
+J.K. Rowling,The Old Man and the Sea,Dystopian,18.72,95
+Leo Tolstoy,The Alchemist,Classic,12.69,70
+George Orwell,The Old Man and the Sea,Historical,10.41,65
+Mark Twain,The Shining,Mystery,12.76,100
+Leo Tolstoy,The Shining,Philosophical,8.71,18
+J.K. Rowling,Pride and Prejudice,Horror,23.92,87
+Jane Austen,1984,Horror,11.13,28
+Haruki Murakami,Pride and Prejudice,Fantasy,10.29,49
+Mark Twain,Murder on the Orient Express,Dystopian,22.62,64
+Ernest Hemingway,Adventures of Huckleberry Finn,Fiction,10.75,85
+Mark Twain,Pride and Prejudice,Horror,19.68,35
+Mark Twain,Pride and Prejudice,Fiction,10.73,51
+Paulo Coelho,War and Peace,Adventure,11.09,89
+George Orwell,1984,Dystopian,9.5,91
+Paulo Coelho,1984,Fantasy,5.5,67
+George Orwell,The Old Man and the Sea,Philosophical,10.03,21
+George Orwell,The Shining,Fantasy,8.98,39
+George Orwell,1984,Dystopian,6.54,80
+Mark Twain,Murder on the Orient Express,Adventure,6.29,75
+Jane Austen,1984,Classic,14.97,93
+Haruki Murakami,The Old Man and the Sea,Classic,24.81,49
+J.K. Rowling,Murder on the Orient Express,Classic,7.35,12
+Mark Twain,Pride and Prejudice,Classic,17.45,57
+Leo Tolstoy,Adventures of Huckleberry Finn,Dystopian,7.5,41
+Agatha Christie,Pride and Prejudice,Dystopian,11.43,64
+George Orwell,Adventures of Huckleberry Finn,Classic,12.91,36
+Stephen King,Harry Potter and the Sorcerer's Stone,Classic,21.73,10
+Stephen King,Pride and Prejudice,Mystery,24.65,10
+Mark Twain,The Alchemist,Classic,7.01,89
+Ernest Hemingway,Harry Potter and the Sorcerer's Stone,Literary,21.97,46
+J.K. Rowling,Murder on the Orient Express,Historical,11.68,89
+George Orwell,The Shining,Literary,9.49,73
+Jane Austen,Pride and Prejudice,Historical,9.51,6
+Jane Austen,The Alchemist,Adventure,16.95,24
+George Orwell,Harry Potter and the Sorcerer's Stone,Literary,24.62,59
+Haruki Murakami,The Shining,Classic,14.52,82
+Paulo Coelho,Kafka on the Shore,Historical,13.57,90
+Paulo Coelho,Pride and Prejudice,Fiction,24.63,86
+Haruki Murakami,The Alchemist,Dystopian,14.65,29
+Ernest Hemingway,Murder on the Orient Express,Historical,6.17,43
+Agatha Christie,Harry Potter and the Sorcerer's Stone,Fiction,20.27,96
+Jane Austen,Pride and Prejudice,Historical,12.26,38
+Jane Austen,The Old Man and the Sea,Historical,13.63,72
+J.K. Rowling,Adventures of Huckleberry Finn,Fiction,8.06,83
+Stephen King,Pride and Prejudice,Dystopian,17.27,28
+Ernest Hemingway,1984,Philosophical,15.37,6
+Haruki Murakami,Harry Potter and the Sorcerer's Stone,Horror,13.82,76
+Paulo Coelho,Murder on the Orient Express,Historical,23.15,33
+Stephen King,Harry Potter and the Sorcerer's Stone,Mystery,19.75,54
+Leo Tolstoy,Harry Potter and the Sorcerer's Stone,Classic,17.46,38
+J.K. Rowling,Kafka on the Shore,Adventure,12.5,78
+J.K. Rowling,War and Peace,Classic,15.11,56
+Mark Twain,Adventures of Huckleberry Finn,Fiction,16.67,7
+Agatha Christie,Adventures of Huckleberry Finn,Fiction,6.59,76
+Agatha Christie,1984,Mystery,17.27,84
+George Orwell,Kafka on the Shore,Fiction,21.76,84
+J.K. Rowling,Harry Potter and the Sorcerer's Stone,Dystopian,15.03,60
+Stephen King,Murder on the Orient Express,Classic,10.74,80
+Jane Austen,Adventures of Huckleberry Finn,Classic,23.15,72
+Stephen King,The Alchemist,Philosophical,20.3,64
+J.K. Rowling,Harry Potter and the Sorcerer's Stone,Horror,24.38,73
+Agatha Christie,Adventures of Huckleberry Finn,Historical,17.11,27
+Agatha Christie,Murder on the Orient Express,Historical,7.47,97
+George Orwell,Harry Potter and the Sorcerer's Stone,Horror,23.2,87
+Ernest Hemingway,Kafka on the Shore,Horror,7.55,66
+J.K. Rowling,1984,Literary,22.78,98
+Mark Twain,Pride and Prejudice,Adventure,23.56,94
+J.K. Rowling,The Alchemist,Mystery,5.49,73
+Haruki Murakami,Harry Potter and the Sorcerer's Stone,Horror,22.51,8
+Agatha Christie,1984,Literary,14.89,40
+Haruki Murakami,1984,Fiction,23.25,16
+Ernest Hemingway,1984,Historical,15.38,94
+Jane Austen,The Alchemist,Fiction,13.98,40
+Haruki Murakami,Harry Potter and the Sorcerer's Stone,Adventure,11.7,58
+Mark Twain,Pride and Prejudice,Historical,14.71,23
+Leo Tolstoy,War and Peace,Classic,9.65,85
+George Orwell,The Old Man and the Sea,Dystopian,6.6,51
+Ernest Hemingway,Pride and Prejudice,Fantasy,14.17,81
+Stephen King,Harry Potter and the Sorcerer's Stone,Philosophical,5.22,94
+George Orwell,Kafka on the Shore,Mystery,15.76,87
+Agatha Christie,1984,Classic,21.52,42
+Jane Austen,Harry Potter and the Sorcerer's Stone,Historical,14.4,76
+Ernest Hemingway,Pride and Prejudice,Dystopian,14.34,34
+George Orwell,Murder on the Orient Express,Horror,8.17,84
+Stephen King,The Old Man and the Sea,Literary,24.96,26
+George Orwell,Kafka on the Shore,Philosophical,16.67,33
+Haruki Murakami,Harry Potter and the Sorcerer's Stone,Horror,17.06,14
+Mark Twain,Adventures of Huckleberry Finn,Dystopian,23.61,79
+Agatha Christie,Pride and Prejudice,Fantasy,15.98,5
+Paulo Coelho,Harry Potter and the Sorcerer's Stone,Historical,7.58,83
+Ernest Hemingway,War and Peace,Mystery,8.37,23
+George Orwell,War and Peace,Philosophical,22.1,99
+Leo Tolstoy,Adventures of Huckleberry Finn,Fiction,20.95,82
+Jane Austen,Kafka on the Shore,Mystery,7.88,27
+Ernest Hemingway,Pride and Prejudice,Fiction,23.12,55
+J.K. Rowling,The Alchemist,Fiction,5.58,8
+George Orwell,Pride and Prejudice,Mystery,16.86,32
+Ernest Hemingway,Murder on the Orient Express,Adventure,7.43,22
+Agatha Christie,Murder on the Orient Express,Literary,6.29,82
+Mark Twain,Kafka on the Shore,Dystopian,23.34,99
+Haruki Murakami,Pride and Prejudice,Classic,14.88,72
+Paulo Coelho,The Shining,Mystery,20.97,37
+Paulo Coelho,1984,Fantasy,14.8,37
+Haruki Murakami,Kafka on the Shore,Fantasy,8.59,92
+Stephen King,The Old Man and the Sea,Classic,13.09,9
+Ernest Hemingway,Pride and Prejudice,Fantasy,16.28,31
+Paulo Coelho,The Shining,Historical,22.5,28
+George Orwell,1984,Classic,19.06,40
+Haruki Murakami,Kafka on the Shore,Fantasy,18.66,43
+Leo Tolstoy,Adventures of Huckleberry Finn,Literary,24.45,80
+Stephen King,The Old Man and the Sea,Historical,11.45,56
+Agatha Christie,Kafka on the Shore,Literary,20.7,84
+Leo Tolstoy,The Old Man and the Sea,Fantasy,13.31,39
+Agatha Christie,Pride and Prejudice,Mystery,15.09,8
+Ernest Hemingway,War and Peace,Literary,15.47,96
+J.K. Rowling,The Old Man and the Sea,Literary,15.48,75
+Paulo Coelho,Adventures of Huckleberry Finn,Horror,10.3,39
+Paulo Coelho,Adventures of Huckleberry Finn,Philosophical,9.9,34
+Stephen King,Pride and Prejudice,Mystery,23.69,60
+J.K. Rowling,The Shining,Philosophical,17.61,78
+Agatha Christie,War and Peace,Classic,21.99,53
+Stephen King,The Shining,Mystery,7.29,51
+Ernest Hemingway,Adventures of Huckleberry Finn,Classic,18.46,50
+Paulo Coelho,Pride and Prejudice,Dystopian,9.53,53
+Jane Austen,Pride and Prejudice,Literary,15.32,92
+George Orwell,The Alchemist,Classic,7.04,76
+Jane Austen,Pride and Prejudice,Literary,12.7,74
+Leo Tolstoy,Harry Potter and the Sorcerer's Stone,Fantasy,7.49,9
+Paulo Coelho,1984,Classic,21.4,61
+Stephen King,Pride and Prejudice,Horror,23.6,64
+Ernest Hemingway,Harry Potter and the Sorcerer's Stone,Dystopian,5.51,39
+J.K. Rowling,Kafka on the Shore,Fiction,15.95,70
+Stephen King,War and Peace,Literary,7.55,94
+Leo Tolstoy,War and Peace,Fantasy,13.9,66
+Leo Tolstoy,The Alchemist,Horror,11.72,97
+Ernest Hemingway,War and Peace,Historical,13.86,86
+Paulo Coelho,Murder on the Orient Express,Horror,15.2,56
+Paulo Coelho,1984,Fiction,14.04,41
+George Orwell,Kafka on the Shore,Mystery,24.67,68
+Agatha Christie,The Shining,Fiction,6.27,24
+Ernest Hemingway,Adventures of Huckleberry Finn,Dystopian,13.42,96
+Jane Austen,War and Peace,Fantasy,16.22,8
+George Orwell,1984,Horror,12.89,56
+Agatha Christie,Harry Potter and the Sorcerer's Stone,Classic,12.41,43
+Agatha Christie,Murder on the Orient Express,Dystopian,20.26,83
+Mark Twain,The Shining,Fiction,14.21,93
+Paulo Coelho,Murder on the Orient Express,Classic,8.03,31
+Ernest Hemingway,The Shining,Adventure,9.58,48
+Agatha Christie,Harry Potter and the Sorcerer's Stone,Literary,12.71,35
+Mark Twain,The Shining,Fantasy,24.23,79
+Leo Tolstoy,Kafka on the Shore,Classic,8.89,84
+Leo Tolstoy,Adventures of Huckleberry Finn,Philosophical,21.16,74
+Leo Tolstoy,Harry Potter and the Sorcerer's Stone,Literary,17.75,33
+Paulo Coelho,Adventures of Huckleberry Finn,Fantasy,22.8,81
+J.K. Rowling,Adventures of Huckleberry Finn,Horror,5.23,68
+Stephen King,War and Peace,Classic,23.62,42
+Ernest Hemingway,Pride and Prejudice,Historical,5.33,38
+Ernest Hemingway,War and Peace,Fiction,23.54,51
+Jane Austen,Murder on the Orient Express,Dystopian,15.37,81
+Mark Twain,The Old Man and the Sea,Fiction,5.93,25
+Jane Austen,Adventures of Huckleberry Finn,Literary,19.96,26
+Stephen King,Adventures of Huckleberry Finn,Adventure,11.07,28
+Paulo Coelho,Murder on the Orient Express,Literary,11.31,77
+Ernest Hemingway,The Alchemist,Mystery,24.15,66
+Agatha Christie,Murder on the Orient Express,Historical,15.95,24
+Paulo Coelho,Harry Potter and the Sorcerer's Stone,Horror,17.68,60
+J.K. Rowling,Murder on the Orient Express,Philosophical,14.67,6
+George Orwell,Harry Potter and the Sorcerer's Stone,Literary,6.46,94
+Paulo Coelho,The Alchemist,Classic,13.09,75
+Mark Twain,The Old Man and the Sea,Historical,5.03,31
+Paulo Coelho,Harry Potter and the Sorcerer's Stone,Mystery,10.06,78
+Mark Twain,1984,Historical,18.81,9
+George Orwell,Murder on the Orient Express,Horror,12.25,72
+Stephen King,The Shining,Adventure,12.84,29
+J.K. Rowling,Kafka on the Shore,Fantasy,22.06,48
+J.K. Rowling,Murder on the Orient Express,Horror,11.7,68
+J.K. Rowling,Adventures of Huckleberry Finn,Historical,5.55,28
+Jane Austen,Murder on the Orient Express,Historical,20.75,63
+J.K. Rowling,The Old Man and the Sea,Fantasy,9.62,32
+Jane Austen,The Alchemist,Fantasy,14.84,97
+George Orwell,1984,Horror,17.05,62
+J.K. Rowling,The Alchemist,Fiction,18.57,17
+Ernest Hemingway,War and Peace,Historical,7.52,17
+Stephen King,The Shining,Literary,21.54,12
+Agatha Christie,The Shining,Philosophical,11.97,76
+J.K. Rowling,Pride and Prejudice,Adventure,20.31,38
+Mark Twain,Kafka on the Shore,Horror,19.59,41
+J.K. Rowling,Harry Potter and the Sorcerer's Stone,Philosophical,13.64,59
+Jane Austen,1984,Philosophical,18.06,12
+Haruki Murakami,War and Peace,Historical,16.52,23
+Agatha Christie,The Shining,Classic,6.21,65
+George Orwell,1984,Horror,15.94,45
+Haruki Murakami,Kafka on the Shore,Historical,18.74,16
+Jane Austen,Kafka on the Shore,Dystopian,24.96,86
+Ernest Hemingway,Adventures of Huckleberry Finn,Horror,19.16,10
+Ernest Hemingway,The Alchemist,Dystopian,5.66,41
+Agatha Christie,The Alchemist,Classic,16.84,18
+Jane Austen,The Alchemist,Mystery,16.72,21
+Mark Twain,Kafka on the Shore,Dystopian,18.97,35
+Stephen King,1984,Fantasy,22.89,46
+Stephen King,The Shining,Dystopian,10.29,18
+Paulo Coelho,Murder on the Orient Express,Dystopian,13.78,92
+J.K. Rowling,Murder on the Orient Express,Mystery,21.77,26
+J.K. Rowling,The Old Man and the Sea,Fantasy,10.69,44
+Haruki Murakami,Murder on the Orient Express,Fiction,15.08,100
+J.K. Rowling,The Shining,Adventure,20.33,56
+Agatha Christie,War and Peace,Adventure,12.78,20
+Leo Tolstoy,Kafka on the Shore,Mystery,8.58,21
+Ernest Hemingway,Adventures of Huckleberry Finn,Classic,22.22,49
+Haruki Murakami,Murder on the Orient Express,Classic,16.08,46
+Jane Austen,The Alchemist,Classic,12.72,68
+Jane Austen,War and Peace,Mystery,24.74,14
+Agatha Christie,1984,Fiction,14.4,38
+Jane Austen,Murder on the Orient Express,Historical,20.79,90
+J.K. Rowling,Harry Potter and the Sorcerer's Stone,Fiction,15.78,40
+George Orwell,The Shining,Philosophical,6.67,10
+Agatha Christie,Kafka on the Shore,Literary,10.8,11
+Agatha Christie,The Old Man and the Sea,Fantasy,15.84,41
+Mark Twain,War and Peace,Classic,12.5,24
+Agatha Christie,The Old Man and the Sea,Fantasy,15.29,59
+Jane Austen,1984,Historical,15.03,93
+Ernest Hemingway,Murder on the Orient Express,Horror,10.53,19
+Jane Austen,Kafka on the Shore,Fantasy,20.9,36
+Haruki Murakami,1984,Literary,9.91,97
+George Orwell,Murder on the Orient Express,Historical,14.95,84
+Stephen King,Harry Potter and the Sorcerer's Stone,Fantasy,6.18,71
+Ernest Hemingway,1984,Literary,8.69,64
+George Orwell,Pride and Prejudice,Dystopian,23.72,97
+George Orwell,1984,Mystery,18.45,19
+George Orwell,Harry Potter and the Sorcerer's Stone,Adventure,20.06,49
+George Orwell,1984,Historical,17.85,87
+Stephen King,War and Peace,Fantasy,9.74,65
+Jane Austen,The Old Man and the Sea,Historical,13.08,92
+Haruki Murakami,Pride and Prejudice,Classic,14.09,36
+Agatha Christie,Kafka on the Shore,Adventure,10.41,5
+Paulo Coelho,War and Peace,Dystopian,12.38,96
+Ernest Hemingway,Adventures of Huckleberry Finn,Adventure,20.42,40
+Haruki Murakami,Kafka on the Shore,Mystery,8.56,81
+Agatha Christie,Adventures of Huckleberry Finn,Historical,16.01,83
+Haruki Murakami,War and Peace,Philosophical,9.31,25
+George Orwell,The Shining,Dystopian,19.74,22
+Ernest Hemingway,The Shining,Mystery,7.39,81
+George Orwell,The Old Man and the Sea,Philosophical,23.86,55
+Stephen King,Adventures of Huckleberry Finn,Literary,18.31,86
+Haruki Murakami,The Old Man and the Sea,Horror,17.59,34
+Agatha Christie,Pride and Prejudice,Adventure,24.89,29
+Haruki Murakami,The Old Man and the Sea,Horror,12.55,30
+Mark Twain,Pride and Prejudice,Mystery,16.84,61
+Leo Tolstoy,The Old Man and the Sea,Mystery,18.16,88
+Haruki Murakami,1984,Mystery,11.26,87
+Ernest Hemingway,The Old Man and the Sea,Literary,15.59,96
+Jane Austen,The Shining,Horror,20.63,27
+Haruki Murakami,Harry Potter and the Sorcerer's Stone,Historical,9.17,36
+Paulo Coelho,1984,Historical,10.7,49
+Haruki Murakami,Harry Potter and the Sorcerer's Stone,Historical,8.0,78
+Ernest Hemingway,Kafka on the Shore,Classic,15.64,53
+J.K. Rowling,Kafka on the Shore,Philosophical,23.75,86
+Leo Tolstoy,The Old Man and the Sea,Historical,13.38,41
+Jane Austen,The Old Man and the Sea,Horror,23.42,91
+Haruki Murakami,War and Peace,Mystery,22.19,55
+Ernest Hemingway,Pride and Prejudice,Literary,13.4,12
+Haruki Murakami,The Shining,Historical,11.29,80
+Jane Austen,1984,Philosophical,6.26,28
+Stephen King,Murder on the Orient Express,Literary,9.3,73
+Jane Austen,The Alchemist,Classic,21.9,22
+Agatha Christie,The Old Man and the Sea,Fantasy,13.6,61
+Paulo Coelho,Kafka on the Shore,Philosophical,21.55,63
+J.K. Rowling,Pride and Prejudice,Mystery,11.65,70
+Agatha Christie,Murder on the Orient Express,Philosophical,6.15,69
+George Orwell,1984,Fantasy,7.31,99
+Paulo Coelho,Adventures of Huckleberry Finn,Fiction,7.31,20
+Mark Twain,War and Peace,Philosophical,6.48,86
+Jane Austen,Adventures of Huckleberry Finn,Historical,22.69,49
+J.K. Rowling,Adventures of Huckleberry Finn,Dystopian,12.62,27
+Agatha Christie,Harry Potter and the Sorcerer's Stone,Fantasy,20.95,17
+Jane Austen,The Old Man and the Sea,Horror,19.37,23
+George Orwell,Kafka on the Shore,Fiction,20.04,65
+Ernest Hemingway,The Shining,Classic,7.47,13
+George Orwell,1984,Classic,13.83,80
+George Orwell,1984,Historical,24.21,9
+Haruki Murakami,Pride and Prejudice,Horror,9.68,56
+George Orwell,Pride and Prejudice,Dystopian,7.76,77
+Leo Tolstoy,Harry Potter and the Sorcerer's Stone,Historical,8.77,13
+Haruki Murakami,War and Peace,Classic,20.89,53
+George Orwell,1984,Dystopian,15.13,23
+Agatha Christie,The Alchemist,Fantasy,18.63,48
+George Orwell,Harry Potter and the Sorcerer's Stone,Horror,15.68,49
+J.K. Rowling,Adventures of Huckleberry Finn,Literary,7.85,31
+Haruki Murakami,The Old Man and the Sea,Literary,7.97,19
+Haruki Murakami,Pride and Prejudice,Dystopian,23.48,57
+Agatha Christie,The Old Man and the Sea,Classic,22.81,89
+Ernest Hemingway,Adventures of Huckleberry Finn,Philosophical,12.88,57
+Leo Tolstoy,War and Peace,Fantasy,20.92,80
+Haruki Murakami,The Alchemist,Dystopian,13.68,44
+Ernest Hemingway,Adventures of Huckleberry Finn,Adventure,18.76,23
+J.K. Rowling,Adventures of Huckleberry Finn,Fiction,16.56,40
+Jane Austen,Adventures of Huckleberry Finn,Philosophical,23.8,91
+J.K. Rowling,War and Peace,Historical,8.56,44
+Agatha Christie,The Old Man and the Sea,Fantasy,20.85,55
+Stephen King,Murder on the Orient Express,Adventure,24.3,86
+Leo Tolstoy,Adventures of Huckleberry Finn,Classic,22.38,23
+Stephen King,War and Peace,Fiction,16.79,100
+George Orwell,War and Peace,Classic,17.34,82
+Paulo Coelho,The Alchemist,Fantasy,8.27,97
+Stephen King,Pride and Prejudice,Literary,20.2,60
+Mark Twain,Harry Potter and the Sorcerer's Stone,Mystery,16.66,33
+Haruki Murakami,The Shining,Mystery,17.61,95
+Leo Tolstoy,Kafka on the Shore,Historical,10.77,90
+Jane Austen,The Old Man and the Sea,Literary,11.21,14
+George Orwell,Kafka on the Shore,Adventure,18.66,75
+George Orwell,Adventures of Huckleberry Finn,Fiction,10.73,38
+Mark Twain,The Old Man and the Sea,Dystopian,5.15,7
+George Orwell,The Shining,Historical,13.85,41
+Mark Twain,Pride and Prejudice,Classic,9.29,44
+Haruki Murakami,1984,Adventure,24.09,69
+Leo Tolstoy,Murder on the Orient Express,Mystery,24.44,64
+het,harrypoytttter,action,100.0,2
